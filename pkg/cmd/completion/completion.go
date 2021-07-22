@@ -2,9 +2,9 @@ package completion
 
 import (
 	"github.com/aerogear/charmil/core/factory"
-	"github.com/aerogear/charmil/starter/pkg/cmd/completion/bash"
-	"github.com/aerogear/charmil/starter/pkg/cmd/completion/fish"
-	"github.com/aerogear/charmil/starter/pkg/cmd/completion/zsh"
+	"github.com/{{ .Owner }}/{{ .Repo }/pkg/cmd/completion/bash"
+	"github.com/{{ .Owner }}/{{ .Repo }/pkg/cmd/completion/fish"
+	"github.com{{ .Owner }}/{{ .Repo }/pkg/cmd/completion/zsh"
 	"github.com/spf13/cobra"
 )
 

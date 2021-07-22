@@ -1,11 +1,9 @@
-module github.com/aerogear/charmil/starter
+module github.com/ankithans/charmil-starter-template
 
 go 1.16
 
 require (
-	github.com/aerogear/charmil v0.2.0
+	github.com/aerogear/charmil v0.3.1
 	github.com/spf13/cobra v1.2.1
 	golang.org/x/text v0.3.6
 )
-
-replace github.com/aerogear/charmil => ../../charmil
