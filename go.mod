@@ -1,4 +1,4 @@
-module github.com/ankithans/charmil-starter-template
+module github.com/{{ .Owner }}/{{ .Repo }}
 
 go 1.16
 

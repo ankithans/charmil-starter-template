@@ -1,7 +1,7 @@
 package root
 
 import (
-	"github.com/{{ .Owner }}/{{ .Repo }/core/factory"
+	"github.com/{{ .Owner }}/{{ .Repo }}/core/factory"
 	"github.com/ankithans/charmil-starter-template/pkg/cmd/completion"
 	"github.com/spf13/cobra"
 )
